@@ -7,3 +7,5 @@ install poetry from this https://python-poetry.org/docs/ or
 
 step2:
 `poetry install`
+
+step3: `flask --app app  --debug run`
